@@ -1,0 +1,24 @@
+#cloud-config
+hostname: kalilinux
+manage_etc_hosts: true
+packages:
+- avahi-daemon
+apt:
+  conf: |
+    Acquire {
+      Check-Date "false";
+    };
+
+users:
+- name: kali
+  groups: users,adm,dialout,audio,netdev,video,plugdev,cdrom,games,input,gpio,spi,i2c,render,sudo
+  shell: /bin/bash
+  lock_passwd: false
+  passwd: "PASSWD"
+
+ssh_pwauth: true
+
+timezone: Europe/Madrid
+keyboard:
+  model: pc105
+  layout: "es"
