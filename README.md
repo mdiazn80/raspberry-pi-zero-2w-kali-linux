@@ -39,4 +39,12 @@ The goal is to create a lightweight, portable, and affordable **cybersecurity la
 - [Raspberry Imager](https://www.raspberrypi.com/software/)
 - [Kali Linux](https://www.kali.org)
 
-## Install
+## Installation
+
+- [Install](./docs/install.md)
+- [Login](./docs/login.md)
+- [Config and update](./docs/config.md)
+
+## Projects
+
+- [Install hotspot (TBD)](./docs/hotspot.md)
