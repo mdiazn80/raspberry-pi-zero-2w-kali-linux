@@ -1,0 +1,12 @@
+#cloud-config
+hostname: kalilinux
+manage_etc_hosts: true
+packages:
+- avahi-daemon
+apt:
+  conf: |
+    Acquire {
+      Check-Date "false";
+    };
+
+ssh_pwauth: true

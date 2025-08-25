@@ -5,5 +5,5 @@ wifis:
     dhcp4: true
     optional: true
     access-points:
-      "NAME_WIFI":
-        password: "PASSWD_WIFI"
+      "WIFI_SSID":
+        password: "PASS"
