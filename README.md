@@ -5,7 +5,7 @@
 This repository provides a **step-by-step guide to installing and configuring Kali Linux on a Raspberry Pi Zero 2 W**.  
 The goal is to create a lightweight, portable, and affordable **cybersecurity lab** for **ethical hacking, pentesting, and learning**.  
 
-⚠️ **Disclaimer:** This project is for **educational purposes only**. Use it responsibly in controlled environments. The misuse of these tools may be illegal.
+⚠️ **Disclaimer:** This project is for **educational purposes only**. Use it responsibly in controlled environments. The misuse of these tools may be illegal. The author is not responsible for any misuse of this project.
 
 ## 🚀 Features
 

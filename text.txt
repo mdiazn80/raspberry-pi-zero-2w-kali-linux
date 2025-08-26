@@ -1,0 +1,10 @@
+version: 2
+wifis:
+  renderer: NetworkManager
+  wlan0:
+    dhcp4: true
+    optional: true
+    access-points:
+      "elevenWIFI":
+        password: "a237518833da9e4b8eda69ff89118d7e228f0843314e3da3fd038f2f3b816c20"
+

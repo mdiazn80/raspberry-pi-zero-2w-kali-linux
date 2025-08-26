@@ -32,41 +32,25 @@
 
 - Edit Settings
   - Name: kalilinux
-  - Username and Password
-    - User: kali
-    - Pass: ***
-  - WIFI settings:
-    - WIFI Name: ***
-    - WIFI pass: ***
 
 ![Init](../images/steps/step080.png)
 
-- Edit Settings
+- Yes
 
 ![Init](../images/steps/step090.png)
 
-- Edit Settings
+- Writting...
 
 ![Init](../images/steps/step100.png)
 
-- Yes
+- Writting...
 
 ![Init](../images/steps/step110.png)
 
-- Writting...
+- Verify
 
 ![Init](../images/steps/step120.png)
 
-- Writting...
+- Writting Succes: Confirm
 
 ![Init](../images/steps/step130.png)
-
-- Verify
-
-![Init](../images/steps/step140.png)
-
-- Writting Succes
-
-![Init](../images/steps/step150.png)
-
-- Insert the microSD into the Raspberry Pi Zero 2 W and boot it up.  

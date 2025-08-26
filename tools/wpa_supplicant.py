@@ -4,9 +4,9 @@ wpa_supplicant
 import hashlib
 import binascii
 
-def wpa_passphrase(ssid, passphrase) -> str:
+def wpa_passphrase(ssid:str, passphrase:str) -> str:
     '''
-    Genera una clave precompartida (PSK) para WPA/WPA2 a partir de un SSID y una frase de paso.
+    Genera una clave precompartida (PSK) para WPA/WPA2 a partir de un SSID y una Passphrase.
     '''
     psk = hashlib.pbkdf2_hmac(
         'sha1',
