@@ -40,8 +40,6 @@ The goal is to create a lightweight, portable, and affordable **cybersecurity la
 <img src="images/hardware/box.jpg" alt="drawing" width="200"/>
 <img src="images/hardware/usb.jpg" alt="drawing" width="200"/>
 <img src="images/hardware/microsd.jpg" alt="drawing" width="200"/>
-
-
 <img src="images/hardware/boxlight.png" alt="drawing" width="200"/>
 <img src="images/hardware/boxdark.png" alt="drawing" width="200"/>
 
