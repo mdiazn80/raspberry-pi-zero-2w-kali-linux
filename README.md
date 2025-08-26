@@ -53,8 +53,8 @@ The goal is to create a lightweight, portable, and affordable **cybersecurity la
 ## Installation
 
 - [Install](./docs/install.md)
-- [Login](./docs/login.md)
 - [Config and update](./docs/config.md)
+- [Login](./docs/login.md)
 
 ## Projects
 
