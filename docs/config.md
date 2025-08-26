@@ -47,6 +47,9 @@ Steps:
    python tools/wpa_supplicant.py
    ```
 
+Once the Raspberry Pi connects to the Wi-Fi network, you need to identify the IP address assigned to it.  
+This can usually be done by checking the list of connected devices on your router or Wi-Fi access point.
+
 ### Set up a Wi-Fi hotspot (TBD)
 
 ## Login and Upgrade

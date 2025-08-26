@@ -38,6 +38,8 @@ The goal is to create a lightweight, portable, and affordable **cybersecurity la
 
 - [Raspberry Imager](https://www.raspberrypi.com/software/)
 - [Kali Linux](https://www.kali.org)
+- [Cloud Init](https://cloudinit.readthedocs.io/en/latest/)
+- [Netplan](https://netplan.io/)
 
 ## Installation
 
